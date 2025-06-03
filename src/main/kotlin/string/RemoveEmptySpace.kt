@@ -1,4 +1,4 @@
-package com.rakib.string.reverseString
+package com.rakib.string
 
 /**
  *Remove empty space

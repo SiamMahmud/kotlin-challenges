@@ -1,4 +1,4 @@
-package com.rakib.string.reverseString
+package com.rakib.string
 
 /**
  * Reverses each word in a given string while preserving their original order.
